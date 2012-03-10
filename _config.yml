@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Just my thouhghts
+title : Just my thoughts
 tagline: A little bit on new technologies, software architecture, programming languages and whatever else.
 author :
   name : Miguel Pastor
