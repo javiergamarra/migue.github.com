@@ -25,5 +25,5 @@ Some techs i like
 My personal info
 -----------------
 - [Send me an email](mailto:miguelinlas3@gmail.com)
-- [Twitter account](http://wwww.twitter.com/miguelinlas3) (99.99% tech related)
+- [Twitter account](https://twitter.com/#!/miguelinlas3) (99.99% tech related)
 - [My old blog](http://miguelinlas3.blogspot.com)
