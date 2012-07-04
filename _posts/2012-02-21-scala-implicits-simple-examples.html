@@ -3,6 +3,7 @@ layout: post
 name: scala-implicits-simple-examples
 title: "Scala Implicits: simple examples"
 time: 2012-02-21 22:14:00 +01:00
+tags: [jvm, programming, scala]
 ---
 
 <div style="text-align: justify;">Durante la <a href="http://miguelinlas3.blogspot.com/2012/02/scala-implicits-i.html">entrada anterior</a>&nbsp;analizábamos los conceptos básicos de los <span style="font-family: 'Courier New', Courier, monospace;">implicits</span> en <span style="font-family: 'Courier New', Courier, monospace;">Scala</span> desde un punto de vista "teórico", dejando a un lado los ejemplos de código con el objetivo de no convertir el post en algo completamente inmanejable e incomprensible. A lo largo de la entrada que nos ocupa analizaremos diversos ejemplos de aplicación, describiendo con la mayor exactitud posible el mecanismo de funcionamiento de los <span style="font-family: 'Courier New', Courier, monospace;">implicits</span> aquí descritos.</div><div style="text-align: justify;"><br /></div><div style="text-align: justify;">Como punto de partida realizaremos un sencillo ejemplo en el que veremos como realizar conversiones automáticas a un tipo determinado&nbsp;(el compilador las realizará por nosotros). Supongamos que disponemos de la siguiente definición de clase</div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-family: 'Courier New', Courier, monospace;">
