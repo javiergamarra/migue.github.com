@@ -14,7 +14,7 @@ La semana pasada estuve dando una charla introductoria sobre algunas de las tecn
 
 <br>
 
-Las slides embebidas en el iframe anterior pueden se pueden previsualizar el HTML previewer de Github siguiendo la [siguiente dirección](http://htmlpreview.github.com/?https://github.com/migue/liferay-tech-talks/blob/modern-concurrency-jvm/modern-concurrency-jvm/slides/modern-jvm-concurrency.html)
+Las slides embebidas en el iframe anterior pueden se pueden previsualizar en el HTML previewer de Github siguiendo la [siguiente dirección](http://htmlpreview.github.com/?https://github.com/migue/liferay-tech-talks/blob/modern-concurrency-jvm/modern-concurrency-jvm/slides/modern-jvm-concurrency.html)
 
 Hasta pronto!
 
