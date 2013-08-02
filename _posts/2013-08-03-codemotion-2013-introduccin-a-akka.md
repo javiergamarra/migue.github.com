@@ -2,7 +2,7 @@
 layout: post
 title: "Codemotion 2013: Introducción a Akka"
 category: 
-tags: [scala, jvm, concurrency, distributed, akka, codemotion]
+tags: [scala, jvm, concurrency, distributed systems, akka, codemotion]
 ---
 {% include JB/setup %}
 
@@ -16,7 +16,12 @@ Una vez abierto el "call for papers" de este año me preguntaba si tendría algo
 
 La semana pasada la organización del Codemotion me ha notificado que mi propuesta __"Construyendo aplicaciones concurrentes y distribuidas con Akka"__ había sido seleccionada entre las charlas que serían incluidas en la parrilla definitiva del evento. La verdad que estoy muy contento y espero que mi propuesta este a la altura del evento.
 
-A medida que vaya preparando la charla iré actualizando las [slides](https://dl.dropboxusercontent.com/u/23524389/akka-intro/akka-intro.html) (en el momento en que he escrito este post son una versión preliminar que necesita pulir una serie de cosillas).
+A medida que vaya preparando la charla iré actualizando las [slides](https://dl.dropboxusercontent.com/u/23524389/akka-intro/akka-intro.html) (en el momento en que he escrito este post son una versión preliminar que necesita pulir una serie de cosillas)
+
+<div id="akka-intro-talk" align="center">
+	<iframe src="https://dl.dropboxusercontent.com/u/23524389/akka-intro/akka-intro.html" width="120%" height="750" frameBorder="0"> </iframe>
+</div>
+
 
 Hasta pronto!
 

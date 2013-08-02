@@ -11,8 +11,8 @@ Hace unas semanas estuve dando una charla sobre los fundamentos de la máquina v
 A continuación os dejo las slides utilizadas para la presentación:
 
 <div style="width:600px" id="__ss_12536947" align="center">
-	<object id="__sse12536947" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jvm-fundamentals-120414044311-phpapp02&stripped_title=jvm-fundamentals&userName=miguelinlas3" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/>
-		<embed name="__sse12536947" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jvm-fundamentals-120414044311-phpapp02&stripped_title=jvm-fundamentals&userName=miguelinlas3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed>
+	<object id="__sse12536947" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jvm-fundamentals-120414044311-phpapp02%26stripped_title=jvm-fundamentals%26userName=miguelinlas3" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/>
+		<embed name="__sse12536947" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jvm-fundamentals-120414044311-phpapp02%26stripped_title=jvm-fundamentals%26userName=miguelinlas3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed>
 	</object>
 </div>
 <br/>
