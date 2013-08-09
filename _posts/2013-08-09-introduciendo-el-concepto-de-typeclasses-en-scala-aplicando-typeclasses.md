@@ -2,7 +2,7 @@
 layout: post
 title: "Introduciendo el concepto de typeclasses en Scala: aplicando typeclasses"
 category: 
-tags: []
+tags: [scala, jvm, typeclasses, programming]
 ---
 {% include JB/setup %}
 
