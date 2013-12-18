@@ -58,7 +58,7 @@ Exception in thread "main" java.lang.AbstractMethodError: User.getCredentials()L
 	at Main.main(Main.java:4)
 {% endhighlight %}
 
-Posiblemente ninguno de nosotros haya experimentado este tipo de error en nuetras aplicaciones.
+Posiblemente ninguno de nosotros hayamos experimentado este tipo de error en nuestras aplicaciones.
 
 En la próxima entrada analizaremos otro tipo de problemas ocasionados por los <i>bridge methods</i> y los procesos de compilación independiente.
 
