@@ -12,7 +12,7 @@ Hace unos días, a raíz de un tweet sobre [Julia](http://julialang.org/), sali�
 La comunidad
 -----------------
 
-Para todos aquellos que nunca han oído hablar de esta iniciativa, no es más que un repositorio de papers académicos en torno al cual se ha creado una comunidad que realizar charlas periódicas para presentar y discutir sobre los mismos.
+Para todos aquellos que nunca han oído hablar de esta iniciativa, no es más que un repositorio de papers académicos en torno al cual se ha creado una comunidad que realizar charlas periódicas donde presentar y discutir sobre los mismos.
 
 Las normas
 -----------------
@@ -28,7 +28,7 @@ Seguro que muchos de vosotros os estaréis preguntando: ¿Por qué? ¿No existen
 
 Siempre he pensado que el mundo de la investigación y el mundo empresarial deberían estar mucho más cerca el uno del otro, y me gustaría que este grupo permitiera a los integrantes ver cómo ambos mundos pueden beneficiarse mutuamente.
 
-Me gustaría destacar que la temática de este grupo __no__ está focalizada en una tecnología, plataforma o lenguaje de programación concretos sino que gira en torno a papers que los integrantes del grupo consideren interesantes (y, por su puesto, de la visión que el speaker le quiera dar :) ). Si os dais una vuelta por los meetups de los meetups de otras ciudades veréis que las temáticas son de lo más dispares.
+Me gustaría destacar que la temática de este grupo __no__ está focalizada en una tecnología, plataforma o lenguaje de programación concretos sino que gira en torno a papers que los integrantes del grupo consideren interesantes (y, por su puesto, de la visión que el speaker le quiera dar :) ). Si os dais una vuelta por los meetups de otras ciudades veréis que las temáticas son de lo más dispares.
 
 
 Evidentemente esto no es más que una idea/propuesta, para ver si habría gente interesada en que se pudiera formar el grupo.
